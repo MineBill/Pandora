@@ -2,4 +2,4 @@ ublue_variants:
   - label: MineBill/pandora
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: PandoraOS
+      - label: pandora
