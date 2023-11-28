@@ -41,6 +41,12 @@ modules:
       - ublue-os-wallpapers
       # - devpod # https://devpod.sh/ as an rpm
 
+  - type: fonts
+    fonts:
+      nerd-fonts:
+        - ShareTechMono
+        - FiraCode
+
   - type: yafti
       # if included, yafti and it's dependencies (pip & libadwaita)
       #  will be installed and set up
